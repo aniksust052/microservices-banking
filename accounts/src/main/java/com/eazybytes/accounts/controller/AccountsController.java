@@ -93,7 +93,7 @@ public class AccountsController {
     public ResponseEntity<String> getJavaVersion() {
         return ResponseEntity
                 .status(HttpStatus.OK)
-                .body(environment.getProperty("MAVEN_HOME"));
+                .body(buildVersion);
     }
 
     @GetMapping("/contact-info")
