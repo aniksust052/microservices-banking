@@ -1,0 +1,13 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Cards Service QA apis"
+  contactDetails:
+    name: "Anik"
+    email: "aniksust052@gmail.com"
+    phone: "1234567890"
+  onCallSupport:
+    - (+88)1234567890
+    - (+88)1234567890

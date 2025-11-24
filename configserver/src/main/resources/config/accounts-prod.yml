@@ -1,0 +1,13 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Accounts Service PROD apis"
+  contactDetails:
+    name: "Anik"
+    email: "anik@gmail.com"
+    phone: "1234567890"
+  onCallSupport:
+    - (+88)123456789
+    - (+88)123456789
