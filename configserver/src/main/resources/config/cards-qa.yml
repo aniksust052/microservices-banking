@@ -2,7 +2,7 @@
 build:
   version: "2.0"
 
-accounts:
+cards:
   message: "Welcome to Cards Service QA apis"
   contactDetails:
     name: "Anik"

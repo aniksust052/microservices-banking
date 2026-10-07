@@ -2,12 +2,12 @@
 build:
   version: "1.0"
 
-accounts:
+cards:
   message: "Welcome to Cards Service PROD apis"
   contactDetails:
     name: "Anik"
     email: "aniksust052@gmail.com"
     phone: "1234567890"
   onCallSupport:
-    - (+88)123456789
-    - (+88)123456789
+    - (+88)1234567890
+    - (+88)1234567890
